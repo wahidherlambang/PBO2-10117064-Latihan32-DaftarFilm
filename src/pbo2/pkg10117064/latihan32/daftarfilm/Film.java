@@ -8,6 +8,11 @@ package pbo2.pkg10117064.latihan32.daftarfilm;
 /**
  *
  * @author WAHID HERLAMBANG
+ * NAMA     : Wahid Herlambang Suroso
+ * KELAS    : PBO2
+ * NIM      : 10117064
+ * Deskripsi Program : Program ini berisi program untuk menampilkan 
+ * daftar film.
  */
 public class Film {
     public String filmName;
